@@ -1,0 +1,24 @@
+{
+  "name": "workout-ml",
+  "version": "0.0.1",
+  "description": "Free workout application built in Vue.js, Node.js, Express and TensorFlow.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flapdragon/workout-ml.git"
+  },
+  "keywords": [
+    "workout",
+    "Machine learning"
+  ],
+  "author": "flapdragon <vermicious.knid.d@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flapdragon/workout-ml/issues"
+  },
+  "homepage": "https://github.com/flapdragon/workout-ml#readme",
+  "dependencies": {}
+}
